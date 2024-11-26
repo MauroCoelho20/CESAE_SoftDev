@@ -1,6 +1,8 @@
 body{
     background-color: bisque;
     padding: 20px;
+    margin: 20px;
+    border:20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    }
 footer{
@@ -18,5 +20,9 @@ nav a{
 }
 h2{
     text-align: center;
-
+}
+h1{
+    font-style: italic;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
