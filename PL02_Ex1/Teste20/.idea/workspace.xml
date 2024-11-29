@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e2496b9-1cf5-4d8f-879e-04a1e82f9cb0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Aula html/Exercicio.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula html/Exercicio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula html/aula1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula html/aula1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teste18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Teste18/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,42 +26,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BinarioADecimal.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Teste21.executor": "Run",
-    "Application.Teste22.executor": "Run",
-    "Application.Teste23.executor": "Run",
-    "Application.Teste24.executor": "Run",
-    "Application.Teste25.executor": "Run",
-    "Application.Teste26.executor": "Run",
-    "Application.Teste27.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mauro/Desktop/CESAE_SoftDev/PL02_Ex1/Teste20",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BinarioADecimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste27.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mauro/Desktop/CESAE_SoftDev/PL02_Ex1/Teste20&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,16 +71,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/out/production/Teste20/Teste27.class</url>
-          <line>33</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
