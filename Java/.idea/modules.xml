@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExArray/ExArray.iml" filepath="$PROJECT_DIR$/ExArray/ExArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jogos Azar/Jogos Azar.iml" filepath="$PROJECT_DIR$/Jogos Azar/Jogos Azar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lotaria/Lotaria.iml" filepath="$PROJECT_DIR$/Lotaria/Lotaria.iml" />
+    </modules>
+  </component>
+</project>
