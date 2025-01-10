@@ -13,13 +13,13 @@ public class Aluno {
         this.media = media;
     }
 
-    public void situacao() {
+    public String situacao() {
 
         if (this.media >= 9.5) {
-            System.out.println(" Aprovado!");
+            return "Aprovado!";
 
         }else {
-            System.out.println(" Reprovado!");
+            return "Reprovado!";
         }
     }
 }

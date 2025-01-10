@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicio Prof.iml" filepath="$PROJECT_DIR$/.idea/Exercicio Prof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PCE/PCE.iml" filepath="$PROJECT_DIR$/PCE/PCE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PL01_GrupoI/PCE_ArrayExemplo/PCE_ArrayExemplo.iml" filepath="$PROJECT_DIR$/PL01_GrupoI/PCE_ArrayExemplo/PCE_ArrayExemplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PL01_GrupoI/PL01_GrupoI.iml" filepath="$PROJECT_DIR$/PL01_GrupoI/PL01_GrupoI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PL01_GrupoIII/PL01_GrupoIII.iml" filepath="$PROJECT_DIR$/PL01_GrupoIII/PL01_GrupoIII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PL01_GrupoIII_Listas/PL01_GrupoIII_Listas.iml" filepath="$PROJECT_DIR$/PL01_GrupoIII_Listas/PL01_GrupoIII_Listas.iml" />
+    </modules>
+  </component>
+</project>

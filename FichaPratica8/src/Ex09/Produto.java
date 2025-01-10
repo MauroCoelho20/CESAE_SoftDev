@@ -36,7 +36,7 @@ public class Produto {
             // Depois verifica se tem stock suficiente
             if (quantidade <= stock) {
                 // Se tiver stock suficiente, diminui a quantidade do stock
-                stock = stock - quantidade;
+                stock -= quantidade;
                 // Mostra mensagem de venda realizada
                 System.out.println("Venda realizada: " + quantidade + " unidades vendidas");
             } else {
